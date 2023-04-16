@@ -3,10 +3,10 @@
 </div>
 
 ### :man_technologist: About Me :
-:desktop_computer: I am junior Golang developper from Russia
+:desktop_computer: I am junior Golang developper from Russia.
 
 
-:magnet: Currently Looking for a job (Location, Saint-P)
+:magnet: Currently Looking for a job (Location, Saint-P).
 
 :dna: Chat GPT Friendly.
 
