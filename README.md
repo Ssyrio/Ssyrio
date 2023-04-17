@@ -21,3 +21,5 @@ Socials : Tg-> @vall0ut
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" title="GPT" alt="Gpt" width="40" height="40"/>&nbsp;
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssyrio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
